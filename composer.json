@@ -1,0 +1,16 @@
+{
+    "name": "king_hai_8024/test",
+    "description": "test make",
+    "autoload": {
+        "psr-4": {
+            "KingHai8024\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wanghai",
+            "email": "380291404@qq.com"
+        }
+    ],
+    "require": {}
+}
